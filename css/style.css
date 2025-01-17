@@ -63,7 +63,7 @@
 }
 
 .main_visual .main_visual_slide .itm {
-    height: calc(100vh - 104px);
+    height: 100vh;
     background-position: center center;
     background-size: cover;
 }
